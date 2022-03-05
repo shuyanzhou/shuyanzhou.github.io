@@ -50,7 +50,7 @@ WMT, 2019\
 
 *Aggregated Semantic Matching for Short Text Entity Linking*\
 Feng Nie, **Shuyan Zhou**, Jing Liu, Jinpeng Wang, Chin-Yew Lin, Rong Pan \
-CoNLL, 2018
+CoNLL, 2018\
 [[PDF](https://aclanthology.org/K18-1046.pdf)]
 
 ------------
@@ -59,23 +59,30 @@ CoNLL, 2018
 
 * **Mentoring**
   * CMU Language Technologies Mentoring Program (for new graduate students; 2021)
-  * CMU Graduate Application Support Mentor (2020, 2021)
+  * CMU Graduate Application Support Organizer & Mentor (2020, 2021)
   * CMU AI Mentoring Program (for undergraduates from underrepresented groups; 2020, 2021)
+
+* **Reviewing**
+  * ARR 2022, AAAI 2022, ARR 2021, EACL 2021
 
 ------------
 
+### Teaching
+* TA of CMU 11711 Advanced NLP, Fall 201
+* TA of CMU 11747 Neural Network for Natural Language Processing, Spring 2021
+
 ### Experience
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
-2018.08 - Present\ 
+2018.08 - Present \
 Advisor: [Graham Neubig](http://phontron.com)
 
 Research Intern, Microsoft \
-2020.05 - 2020.08 \ 
+2020.05 - 2020.08 \
 Host: [Kaushik Chakrabarti](https://www.microsoft.com/en-us/research/people/kaushik/) 
 
 B.Eng of Computer Science and Technology, Harbin Institute of Technology \
 2014.09 - 2018.06 
 
 Research Intern, Microsoft Research Asia \
-2017.07 - 2018.06 \ 
+2017.07 - 2018.06 \
 Host: [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)
