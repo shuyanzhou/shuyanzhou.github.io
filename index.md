@@ -71,6 +71,8 @@ CoNLL, 2018\
 * TA of CMU 11711 Advanced NLP, Fall 201
 * TA of CMU 11747 Neural Network for Natural Language Processing, Spring 2021
 
+------------
+
 ### Experience
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
 2018.08 - Present \
