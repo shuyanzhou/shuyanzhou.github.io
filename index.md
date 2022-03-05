@@ -23,7 +23,7 @@ ACL, 2022 \
 
 *Hierarchical Control of Situated Agents through Natural Language*\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
-Arxix Preprint, 2021
+Arxix Preprint, 2021\
 [[PDF](https://arxiv.org/pdf/2109.08214.pdf)]
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
@@ -39,7 +39,7 @@ TACL, 2020\
 
 
 *Towards Zero-resource Cross-lingual Entity Linking*\
-Shuyan Zhou, Shruti Rijhwani, Graham Neubig \
+**Shuyan Zhou**, Shruti Rijhwani, Graham Neubig \
 EMNLP DeepLo Workshop, 2019\
 [[PDF](https://aclanthology.org/D19-61.pdf#page=257)] [[Code](https://github.com/shuyanzhou/burn_xel)]
 
@@ -65,13 +65,17 @@ CoNLL, 2018
 ------------
 
 ### Experience
-Master → Ph.D. of Language Technologies, Carnegie Mellon University 2018.08 - Present 
+Master → Ph.D. of Language Technologies, Carnegie Mellon University \
+2018.08 - Present\ 
 Advisor: [Graham Neubig](http://phontron.com)
 
-Research Intern, Microsoft, 2020.05 - 2020.08 
+Research Intern, Microsoft \
+2020.05 - 2020.08 \ 
 Host: [Kaushik Chakrabarti](https://www.microsoft.com/en-us/research/people/kaushik/) 
 
-B.Eng of Computer Science and Technology, Harbin Institute of Technology, 2014.09 - 2018.06 
+B.Eng of Computer Science and Technology, Harbin Institute of Technology \
+2014.09 - 2018.06 
 
-Research Intern, Microsoft Research Asia, 2017.07 - 2018.06 
+Research Intern, Microsoft Research Asia \
+2017.07 - 2018.06 \ 
 Host: [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)
