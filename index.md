@@ -8,7 +8,7 @@ Hi, I’m Shuyan, a PhD student of the Language Technologies Institute in the Sc
 
 My research interests lie in natural language command and control.
 
-I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
+I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu). Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+.
 
 <!-- <span style="font-size:0.85em">**I'm on the job market!** Please [send me an email](mailto:srijhwan@cs.cmu.edu) if you think I'd be a good fit for your industry research group. My CV can be found [here](/ShrutiRijhwani_CV.pdf).</span> -->
 
@@ -18,7 +18,7 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 *Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data*\
 **Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch and Graham Neubig \
 ACL, 2022 \
-[To appear]
+[[PDF](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
 
 *Hierarchical Control of Situated Agents through Natural Language*\
