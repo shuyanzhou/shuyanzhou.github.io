@@ -16,7 +16,7 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
 ### Publications
 *Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data*\
-**Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch and Graham Neubig \
+**Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch and Graham Neubig (* equal contribution)\
 ACL, 2022 \
 [[PDF](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
