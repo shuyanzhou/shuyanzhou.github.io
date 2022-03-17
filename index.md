@@ -28,7 +28,7 @@ ACL, 2022 \
 
 *Hierarchical Control of Situated Agents through Natural Language*\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
-Arxix Preprint, 2021\
+Arxiv Preprint, 2021\
 [[PDF](https://arxiv.org/pdf/2109.08214.pdf)]
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
