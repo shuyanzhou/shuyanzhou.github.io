@@ -15,6 +15,11 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 ------------
 
 ### Publications
+*DocCoder: Generating Code by Retrieving and Reading Docs* \
+**Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhengbao Jiang, Graham Neubig \
+Arxiv Preprint, 2022 \
+[[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Data+Code]](https://github.com/shuyanzhou/doccoder)
+
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Arxiv Preprint, 2022 \
@@ -28,7 +33,7 @@ ACL, 2022 \
 
 *Hierarchical Control of Situated Agents through Natural Language*\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
-Arxiv Preprint, 2021\
+NAACL SUKI Workshop, 2022\
 [[PDF](https://arxiv.org/pdf/2109.08214.pdf)]
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
@@ -82,6 +87,10 @@ CoNLL, 2018\
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
 2018.08 - Present \
 Advisor: [Graham Neubig](http://phontron.com)
+
+Ph.D. Resident, X, the moonshot factory \
+2022.05 - 2022.08 \
+Host: [Alex Polozov](https://alexpolozov.com/)
 
 Research Intern, Microsoft \
 2020.05 - 2020.08 \
