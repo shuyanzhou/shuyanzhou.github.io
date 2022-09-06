@@ -18,50 +18,50 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 *DocCoder: Generating Code by Retrieving and Reading Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhengbao Jiang, Graham Neubig \
 Arxiv Preprint, 2022 \
-[[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Data+Code]](https://github.com/shuyanzhou/doccoder)
+[[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/doccoder)]
 
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Arxiv Preprint, 2022 \
-[[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Data+Code](https://github.com/zorazrw/multilingual-conala)]
+[[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
 *Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data*\
 **Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch, Graham Neubig (* equal contribution)\
 ACL, 2022 \
-[[PDF](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
+[[Paper](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
 
 *Hierarchical Control of Situated Agents through Natural Language*\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
 NAACL SUKI Workshop, 2022\
-[[PDF](https://arxiv.org/pdf/2109.08214.pdf)]
+[[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
 Shruti Rijhwani, **Shuyan Zhou**, Graham Neubig, Jaime Carbonell \
 ACL, 2020\
-[[PDF](https://aclanthology.org/2020.acl-main.722.pdf)] [[Code+Data](https://github.com/shrutirij/soft-gazetteers)]
+[[Paper](https://aclanthology.org/2020.acl-main.722.pdf)] [[Code+Data](https://github.com/shrutirij/soft-gazetteers)]
 
 
 *Improving Candidate Generation for Low-resource Cross-lingual Entity Linking*\
 **Shuyan Zhou**, Shruti Rijhwani, John Wieting, Jaime Carbonell, Graham Neubig \
 TACL, 2020\
-[[PDF](https://aclanthology.org/2020.tacl-1.8.pdf)] [[Code](https://github.com/shuyanzhou/pbel_plus)]
+[[Paper](https://aclanthology.org/2020.tacl-1.8.pdf)] [[Code](https://github.com/shuyanzhou/pbel_plus)]
 
 
 *Towards Zero-resource Cross-lingual Entity Linking*\
 **Shuyan Zhou**, Shruti Rijhwani, Graham Neubig \
 EMNLP DeepLo Workshop, 2019\
-[[PDF](https://aclanthology.org/D19-61.pdf#page=257)] [[Code](https://github.com/shuyanzhou/burn_xel)]
+[[Paper](https://aclanthology.org/D19-61.pdf#page=257)] [[Code](https://github.com/shuyanzhou/burn_xel)]
 
 *Improving Robustness of Neural Machine Translation with Multi-task Learning*\
 **Shuyan Zhou**, Xiangkai Zeng, Yingqi Zhou, Antonios Anastasopoulos, Graham Neubig \
 WMT, 2019\
-[[PDF](https://aclanthology.org/W19-5368.pdf)] [[Code](https://github.com/shuyanzhou/multitask_transformer)]
+[[Paper](https://aclanthology.org/W19-5368.pdf)] [[Code](https://github.com/shuyanzhou/multitask_transformer)]
 
 *Aggregated Semantic Matching for Short Text Entity Linking*\
 Feng Nie, **Shuyan Zhou**, Jing Liu, Jinpeng Wang, Chin-Yew Lin, Rong Pan \
 CoNLL, 2018\
-[[PDF](https://aclanthology.org/K18-1046.pdf)]
+[[Paper](https://aclanthology.org/K18-1046.pdf)]
 
 ------------
 
