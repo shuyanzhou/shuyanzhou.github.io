@@ -15,10 +15,15 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 ------------
 
 ### Publications
-*DocCoder: Generating Code by Retrieving and Reading Docs* \
-**Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhengbao Jiang, Graham Neubig \
+*DocPrompting: Generating Code by Retrieving the Docs* \
+**Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
 Arxiv Preprint, 2022 \
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/doccoder)]
+
+*Language Models of Code are Few-Shot Commonsense Learners* \
+Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
+EMNLP, 2022
+[To appear]
 
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
