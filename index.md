@@ -23,7 +23,7 @@ Arxiv Preprint, 2022 \
 *Language Models of Code are Few-Shot Commonsense Learners* \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
 EMNLP, 2022 \
-[To appear]
+[[Paper](https://arxiv.org/pdf/2210.07128.pdf)] [[Code](https://github.com/madaan/CoCoGen)]
 
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
