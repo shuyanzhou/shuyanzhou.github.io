@@ -15,6 +15,11 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 ------------
 
 ### Publications
+Execution-Based Evaluation for Open-Domain Code Generation \
+Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
+Arxiv Preprint, 2022 \
+[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
+
 *PaL: Program-aided Language Models* \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig (* equal contribution) \
 Arxiv Preprint, 2022 \
@@ -23,7 +28,7 @@ Arxiv Preprint, 2022 \
 *DocPrompting: Generating Code by Retrieving the Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
 Arxiv Preprint, 2022 \
-[[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/doccoder)]
+[[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
 
 *Language Models of Code are Few-Shot Commonsense Learners* \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
