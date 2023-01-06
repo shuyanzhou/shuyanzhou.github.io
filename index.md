@@ -15,7 +15,7 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 ------------
 
 ### Publications
-Execution-Based Evaluation for Open-Domain Code Generation \
+*Execution-Based Evaluation for Open-Domain Code Generation* \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 Arxiv Preprint, 2022 \
 [[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
