@@ -7,7 +7,7 @@ layout: default
 Hi, I’m Shuyan, a PhD student of the Language Technologies Institute in the School of Computer Science at [Carnegie Mellon University](https://www.cmu.edu). I am fortunately advised by Professor [Graham Neubig](http://phontron.com). Before that, I received my bachelor degree in Computer Science and Technology from Harbin Institute of Technology.
 
 My research interests lie in natural language command and control. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
-For example, I designed [DocPrompting](https://arxiv.org/pdf/2207.05987.pdf) that reads code docs for code generation.
+For example, I designed [DocPrompting](https://arxiv.org/pdf/2207.05987.pdf) that reads code docs for code generation, so that we don't have to.
 
 I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu). Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+.
 
