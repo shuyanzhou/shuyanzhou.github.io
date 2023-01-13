@@ -51,7 +51,7 @@ ACL, 2022 \
 
 *Hierarchical Control of Situated Agents through Natural Language*\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
-NAACL SUKI Workshop, 2022\
+Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
@@ -68,12 +68,12 @@ TACL, 2020\
 
 *Towards Zero-resource Cross-lingual Entity Linking*\
 **Shuyan Zhou**, Shruti Rijhwani, Graham Neubig \
-EMNLP DeepLo Workshop, 2019\
+Deep Learning for Low-Resource NLP Workshop at EMNLP, 2019\
 [[Paper](https://aclanthology.org/D19-61.pdf#page=257)] [[Code](https://github.com/shuyanzhou/burn_xel)]
 
 *Improving Robustness of Neural Machine Translation with Multi-task Learning*\
 **Shuyan Zhou**, Xiangkai Zeng, Yingqi Zhou, Antonios Anastasopoulos, Graham Neubig \
-WMT, 2019\
+Conference on Machine Translation (WMT), 2019\
 [[Paper](https://aclanthology.org/W19-5368.pdf)] [[Code](https://github.com/shuyanzhou/multitask_transformer)]
 
 *Aggregated Semantic Matching for Short Text Entity Linking*\
