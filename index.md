@@ -21,7 +21,7 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 
 *DocPrompting: Generating Code by Retrieving the Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
-ICLR, 2023 (<span style="color:red">spotlihgt</span>)\
+ICLR, 2023 (<span style="color:red">spotlight</span>)\
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
 
 *PaL: Program-aided Language Models* \
