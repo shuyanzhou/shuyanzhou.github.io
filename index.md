@@ -21,7 +21,7 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 
 *DocPrompting: Generating Code by Retrieving the Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
-Arxiv Preprint, 2022 \
+ICLR, 2023 (<span style="color:red">spotlihgt</span>)\
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
 
 *PaL: Program-aided Language Models* \
@@ -29,15 +29,16 @@ Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang
 Arxiv Preprint, 2022 \
 [[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)]
 
+*Execution-Based Evaluation for Open-Domain Code Generation* \
+Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
+Arxiv Preprint, 2022 \
+[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
+
 *Language Models of Code are Few-Shot Commonsense Learners* \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
 EMNLP, 2022 \
 [[Paper](https://arxiv.org/pdf/2210.07128.pdf)] [[Code](https://github.com/madaan/CoCoGen)]
 
-*Execution-Based Evaluation for Open-Domain Code Generation* \
-Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
-Arxiv Preprint, 2022 \
-[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
 
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
