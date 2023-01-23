@@ -18,6 +18,7 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 ------------
 
 ### Publications
+*\* indicates equal contribution*
 
 *DocPrompting: Generating Code by Retrieving the Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
@@ -30,7 +31,7 @@ Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
 *PaL: Program-aided Language Models* \
-Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig (* equal contribution) \
+Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
 Arxiv Preprint, 2022 \
 [[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)]
 
@@ -45,7 +46,7 @@ EMNLP, 2022 \
 [[Paper](https://arxiv.org/pdf/2210.07128.pdf)] [[Code](https://github.com/madaan/CoCoGen)]
 
 *Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data*\
-**Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch, Graham Neubig (* equal contribution)\
+**Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch, Graham Neubig \
 ACL, 2022 \
 [[Paper](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
