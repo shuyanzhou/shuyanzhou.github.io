@@ -25,10 +25,16 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 ICLR, 2023 (<span style="color:red">spotlight</span>)\
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
 
+*Causal Reasoning of Entities and Events in Procedural Texts* \
+Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
+EACL, 2023 \
+[Paper and code coming soon]
+
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
+
 
 *PaL: Program-aided Language Models* \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
