@@ -24,6 +24,11 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 ICLR, 2023 (<span style="color:red">spotlight</span>)\
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
 
+*MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
+Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
+Findings of EACL, 2023 \
+[[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
+
 *PaL: Program-aided Language Models* \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig (* equal contribution) \
 Arxiv Preprint, 2022 \
@@ -38,12 +43,6 @@ Arxiv Preprint, 2022 \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
 EMNLP, 2022 \
 [[Paper](https://arxiv.org/pdf/2210.07128.pdf)] [[Code](https://github.com/madaan/CoCoGen)]
-
-
-*MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
-Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
-Arxiv Preprint, 2022 \
-[[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
 *Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data*\
 **Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch, Graham Neubig (* equal contribution)\
