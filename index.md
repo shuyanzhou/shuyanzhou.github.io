@@ -17,10 +17,10 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 
 ------------
 
-### Publications
+## Publications
 *\* indicates equal contribution*
 
-#### Preprints
+### Preprints
 
 *PaL: Program-aided Language Models* \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
@@ -32,7 +32,7 @@ Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 Arxiv Preprint, 2022 \
 [[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
 
-#### 2023
+### 2023
 
 *DocPrompting: Generating Code by Retrieving the Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
@@ -49,7 +49,7 @@ Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
-#### 2022
+### 2022
 
 *Language Models of Code are Few-Shot Commonsense Learners* \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
@@ -67,7 +67,7 @@ ACL, 2022 \
 Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
 
-#### 2020 and before
+### 2020 and before
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
 Shruti Rijhwani, **Shuyan Zhou**, Graham Neubig, Jaime Carbonell \
@@ -98,7 +98,7 @@ CoNLL, 2018\
 
 ------------
 
-### Academic Service
+## Academic Service
 
 * **Mentoring**
   * CMU Language Technologies Mentoring Program (for new graduate students; 2021)
@@ -110,13 +110,13 @@ CoNLL, 2018\
 
 ------------
 
-### Teaching
+## Teaching
 * TA of CMU 11711 Advanced NLP, Fall 201
 * TA of CMU 11747 Neural Network for Natural Language Processing, Spring 2021
 
 ------------
 
-### Experience
+## Experience
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
 2018.08 - Present \
 Advisor: [Graham Neubig](http://phontron.com)
