@@ -20,6 +20,20 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 ### Publications
 *\* indicates equal contribution*
 
+#### Preprints
+
+*PaL: Program-aided Language Models* \
+Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
+Arxiv Preprint, 2022 \
+[[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)]
+
+*Execution-Based Evaluation for Open-Domain Code Generation* \
+Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
+Arxiv Preprint, 2022 \
+[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
+
+#### 2023
+
 *DocPrompting: Generating Code by Retrieving the Docs* \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
 ICLR, 2023 (<span style="color:red">spotlight</span>)\
@@ -35,16 +49,7 @@ Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
-
-*PaL: Program-aided Language Models* \
-Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
-Arxiv Preprint, 2022 \
-[[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)]
-
-*Execution-Based Evaluation for Open-Domain Code Generation* \
-Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
-Arxiv Preprint, 2022 \
-[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
+#### 2022
 
 *Language Models of Code are Few-Shot Commonsense Learners* \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
@@ -61,6 +66,8 @@ ACL, 2022 \
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
 Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
+
+#### 2020 and before
 
 *Soft Gazetteers for Low-Resource Named Entity Recognition*\
 Shruti Rijhwani, **Shuyan Zhou**, Graham Neubig, Jaime Carbonell \
