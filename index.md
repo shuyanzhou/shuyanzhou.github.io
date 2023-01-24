@@ -40,7 +40,7 @@ ICLR, 2023 (<span style="color:red">spotlight</span>)\
 
 *Causal Reasoning of Entities and Events in Procedural Texts* \
 Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
-EACL, 2023 \
+Findings of EACL, 2023 \
 [Paper and code coming soon]
 
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
