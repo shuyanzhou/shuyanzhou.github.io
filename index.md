@@ -41,7 +41,7 @@ ICLR, 2023 (<span style="color:red">spotlight</span>)\
 *Causal Reasoning of Entities and Events in Procedural Texts* \
 Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
 Findings of EACL, 2023 \
-[Paper and code coming soon]
+[[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
 
 *MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
