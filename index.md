@@ -29,7 +29,7 @@ CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code \
 *PaL: Program-aided Language Models* \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
 2211.10435 \
-[[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)]
+[[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)][[Twitter](https://twitter.com/shuyanzhxyc/status/1595140404545933313?s=20&t=a8GaJT23kFEPLKujdQO2IQ)][[Demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques)]
 
 *Execution-Based Evaluation for Open-Domain Code Generation* \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
