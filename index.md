@@ -21,15 +21,19 @@ Outside research, I enjoy bouldering (20% of my self-defined progress bar), play
 *\* indicates equal contribution*
 
 ### Preprints
+CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code \
+**Shuyan Zhou**\*, Uri Alon\*, Sumit Agarwal, Graham Neubig \
+2302.05527 \
+[[Paper](https://arxiv.org/pdf/2302.05527.pdf)][[Code](https://github.com/neulab/code-bert-score)]
 
 *PaL: Program-aided Language Models* \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
-Arxiv Preprint, 2022 \
+2211.10435 \
 [[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)]
 
 *Execution-Based Evaluation for Open-Domain Code Generation* \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
-Arxiv Preprint, 2022 \
+2212.10481 \
 [[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
 
 ### Accepted Papers
