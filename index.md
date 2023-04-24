@@ -20,16 +20,6 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 *\* indicates equal contribution*
 
 ### Preprints
-CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code \
-**Shuyan Zhou**\*, Uri Alon\*, Sumit Agarwal, Graham Neubig \
-2302.05527 \
-[[Paper](https://arxiv.org/pdf/2302.05527.pdf)][[Code](https://github.com/neulab/code-bert-score)]
-
-*PaL: Program-aided Language Models* \
-Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
-2211.10435 \
-[[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)][[Twitter](https://twitter.com/shuyanzhxyc/status/1595140404545933313?s=20&t=a8GaJT23kFEPLKujdQO2IQ)][[Demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques)]
-
 *Execution-Based Evaluation for Open-Domain Code Generation* \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 2212.10481 \
@@ -40,6 +30,16 @@ Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
 ICLR, 2023 (<span style="color:red">spotlight</span>)\
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
+
+*PaL: Program-aided Language Models* \
+Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
+ICML, 2023 \
+[[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)][[Twitter](https://twitter.com/shuyanzhxyc/status/1595140404545933313?s=20&t=a8GaJT23kFEPLKujdQO2IQ)][[Demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques)]
+
+CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code \
+**Shuyan Zhou**\*, Uri Alon\*, Sumit Agarwal, Graham Neubig \
+Deep Learning for Code Workshop at ICLR, 2023 (<span style="color:red">spotlight</span>) \
+[[Paper](https://arxiv.org/pdf/2302.05527.pdf)][[Code](https://github.com/neulab/code-bert-score)]
 
 *Causal Reasoning of Entities and Events in Procedural Texts* \
 Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
