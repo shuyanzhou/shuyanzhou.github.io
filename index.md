@@ -9,7 +9,8 @@ Hi, I’m Shuyan, a PhD student of the Language Technologies Institute in the Sc
 My research interests lie in natural language command and control. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
 For example, I designed [DocPrompting](https://arxiv.org/pdf/2207.05987.pdf) that reads code docs and writes code, so that we don't have to.
 
-I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu). Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+.
+I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu). 
+<!-- Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+. -->
 
 <!-- Outside research, I enjoy bouldering (20% of my self-defined progress bar), playing tennis (30%), snowboarding (10%), rap (1%) and stand-up comedy (1%). I also play pingpong (80%) and basketball (70%).  -->
 
@@ -20,62 +21,62 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 *\* indicates equal contribution*
 
 ### Preprints
-*Execution-Based Evaluation for Open-Domain Code Generation* \
+**Execution-Based Evaluation for Open-Domain Code Generation** \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 2212.10481 \
 [[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
 
 ### Accepted Papers
-*DocPrompting: Generating Code by Retrieving the Docs* \
+**DocPrompting: Generating Code by Retrieving the Docs** \
 **Shuyan Zhou**, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig \
 ICLR, 2023 (<span style="color:red">spotlight</span>)\
 [[Paper]](https://arxiv.org/pdf/2207.05987.pdf) [[Code+Data](https://github.com/shuyanzhou/docprompting)]
 
-*PaL: Program-aided Language Models* \
+**PaL: Program-aided Language Models** \
 Luyu Gao\*, Aman Madaan\*, **Shuyan Zhou**\*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig \
 ICML, 2023 \
 [[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)][[Twitter](https://twitter.com/shuyanzhxyc/status/1595140404545933313?s=20&t=a8GaJT23kFEPLKujdQO2IQ)][[Demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques)]
 
-CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code \
+**CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code** \
 **Shuyan Zhou**\*, Uri Alon\*, Sumit Agarwal, Graham Neubig \
 Deep Learning for Code Workshop at ICLR, 2023 (<span style="color:red">spotlight</span>) \
 [[Paper](https://arxiv.org/pdf/2302.05527.pdf)][[Code](https://github.com/neulab/code-bert-score)]
 
-*Causal Reasoning of Entities and Events in Procedural Texts* \
+**Causal Reasoning of Entities and Events in Procedural Texts** \
 Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
 
-*MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages*\
+**MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages**\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
 
-*Language Models of Code are Few-Shot Commonsense Learners* \
+**Language Models of Code are Few-Shot Commonsense Learners** \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
 EMNLP, 2022 \
 [[Paper](https://arxiv.org/pdf/2210.07128.pdf)] [[Code](https://github.com/madaan/CoCoGen)]
 
-*Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data*\
+**Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data**\
 **Shuyan Zhou**\*, Li Zhang\*, Yue Yang, Qing Lyu, Pengcheng Yin, Chris Callison-Burch, Graham Neubig \
 ACL, 2022 \
 [[Paper](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
 
-*Hierarchical Control of Situated Agents through Natural Language*\
+**Hierarchical Control of Situated Agents through Natural Language**\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
 Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
 
 
-*Soft Gazetteers for Low-Resource Named Entity Recognition*\
+**Soft Gazetteers for Low-Resource Named Entity Recognition**\
 Shruti Rijhwani, **Shuyan Zhou**, Graham Neubig, Jaime Carbonell \
 ACL, 2020\
 [[Paper](https://aclanthology.org/2020.acl-main.722.pdf)] [[Code+Data](https://github.com/shrutirij/soft-gazetteers)]
 
 
-*Improving Candidate Generation for Low-resource Cross-lingual Entity Linking*\
+**Improving Candidate Generation for Low-resource Cross-lingual Entity Linking*\
 **Shuyan Zhou**, Shruti Rijhwani, John Wieting, Jaime Carbonell, Graham Neubig \
 TACL, 2020\
 [[Paper](https://aclanthology.org/2020.tacl-1.8.pdf)] [[Code](https://github.com/shuyanzhou/pbel_plus)]
@@ -86,12 +87,12 @@ TACL, 2020\
 Deep Learning for Low-Resource NLP Workshop at EMNLP, 2019\
 [[Paper](https://aclanthology.org/D19-61.pdf#page=257)] [[Code](https://github.com/shuyanzhou/burn_xel)]
 
-*Improving Robustness of Neural Machine Translation with Multi-task Learning*\
+*Improving Robustness of Neural Machine Translation with Multi-task Learning**\
 **Shuyan Zhou**, Xiangkai Zeng, Yingqi Zhou, Antonios Anastasopoulos, Graham Neubig \
 Conference on Machine Translation (WMT), 2019\
 [[Paper](https://aclanthology.org/W19-5368.pdf)] [[Code](https://github.com/shuyanzhou/multitask_transformer)]
 
-*Aggregated Semantic Matching for Short Text Entity Linking*\
+**Aggregated Semantic Matching for Short Text Entity Linking**\
 Feng Nie, **Shuyan Zhou**, Jing Liu, Jinpeng Wang, Chin-Yew Lin, Rong Pan \
 CoNLL, 2018\
 [[Paper](https://aclanthology.org/K18-1046.pdf)]
