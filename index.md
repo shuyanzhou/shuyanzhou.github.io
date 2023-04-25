@@ -64,7 +64,7 @@ ACL, 2022 \
 [[Paper](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
 
-**Hierarchical Control of Situated Agents through Natural Language**\
+**Procedures as Programs: Hierarchical Control of Situated Agents through Natural Language**\
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
 Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
