@@ -47,7 +47,7 @@ Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chr
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
 
-**MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages**\
+***MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages***\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
@@ -64,30 +64,30 @@ ACL, 2022 \
 [[Paper](https://arxiv.org/pdf/2203.07264.pdf)] [[Code+Data](https://github.com/shuyanzhou/wikihow_hierarchy)] [[Demo](https://wikihow-hierarchy.github.io)]
 
 
-**Procedures as Programs: Hierarchical Control of Situated Agents through Natural Language**\
+**Procedures as Programs: Hierarchical Control of Situated Agents through Natural Language** \
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
 Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
 
 
-**Soft Gazetteers for Low-Resource Named Entity Recognition**\
+**Soft Gazetteers for Low-Resource Named Entity Recognition** \
 Shruti Rijhwani, **Shuyan Zhou**, Graham Neubig, Jaime Carbonell \
 ACL, 2020\
 [[Paper](https://aclanthology.org/2020.acl-main.722.pdf)] [[Code+Data](https://github.com/shrutirij/soft-gazetteers)]
 
 
-**Improving Candidate Generation for Low-resource Cross-lingual Entity Linking*\
+**Improving Candidate Generation for Low-resource Cross-lingual Entity Linking**\
 **Shuyan Zhou**, Shruti Rijhwani, John Wieting, Jaime Carbonell, Graham Neubig \
 TACL, 2020\
 [[Paper](https://aclanthology.org/2020.tacl-1.8.pdf)] [[Code](https://github.com/shuyanzhou/pbel_plus)]
 
 
-*Towards Zero-resource Cross-lingual Entity Linking*\
+**Towards Zero-resource Cross-lingual Entity Linking**\
 **Shuyan Zhou**, Shruti Rijhwani, Graham Neubig \
 Deep Learning for Low-Resource NLP Workshop at EMNLP, 2019\
 [[Paper](https://aclanthology.org/D19-61.pdf#page=257)] [[Code](https://github.com/shuyanzhou/burn_xel)]
 
-*Improving Robustness of Neural Machine Translation with Multi-task Learning**\
+**Improving Robustness of Neural Machine Translation with Multi-task Learning**\
 **Shuyan Zhou**, Xiangkai Zeng, Yingqi Zhou, Antonios Anastasopoulos, Graham Neubig \
 Conference on Machine Translation (WMT), 2019\
 [[Paper](https://aclanthology.org/W19-5368.pdf)] [[Code](https://github.com/shuyanzhou/multitask_transformer)]
