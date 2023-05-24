@@ -18,9 +18,14 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 ------------
 
 ## Publications
-*\* indicates equal contribution*
+*\* indicates equal contribution*, *\^ indicates mentorship*
 
 ### Preprints
+**Hierarchical Prompting Assists Large Language Model on Web Navigation** \
+Abishek Sridhar*, Robert Lo*, Frank F. Xu, Hao Zhu, **Shuyan Zhou^** \
+2305.14257 \
+[[Paper](https://arxiv.org/pdf/2305.14257.pdf)][[Code](https://github.com/robert1003/ash-prompting)]
+
 **Execution-Based Evaluation for Open-Domain Code Generation** \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 2212.10481 \
@@ -48,7 +53,7 @@ Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
 
 ***MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages***\
-Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
+Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou^**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
