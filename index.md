@@ -18,11 +18,11 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 ------------
 
 ## Publications
-*\* indicates equal contribution*, *\^ indicates mentorship*
+*\* indicates equal contribution*, *^ indicates mentorship*
 
 ### Preprints
 **Hierarchical Prompting Assists Large Language Model on Web Navigation** \
-Abishek Sridhar*, Robert Lo*, Frank F. Xu, Hao Zhu, **Shuyan Zhou^** \
+Abishek Sridhar\*, Robert Lo\*, Frank F. Xu, Hao Zhu, **Shuyan Zhou^** \
 2305.14257 \
 [[Paper](https://arxiv.org/pdf/2305.14257.pdf)][[Code](https://github.com/robert1003/ash-prompting)]
 
