@@ -52,7 +52,7 @@ Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chr
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
 
-***MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages***\
+**MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages**\
 Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou^**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
