@@ -7,6 +7,7 @@ layout: default
 Hi, I’m Shuyan, a final-year PhD student of the Language Technologies Institute at [Carnegie Mellon University](https://www.cmu.edu). I am fortunately advised by Professor [Graham Neubig](http://phontron.com). Before that, I received my bachelor degree in Computer Science and Technology from Harbin Institute of Technology.
 
 My research interests lie in natural language command and control. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
+
 I proposed a intuitive formalism for representing [procedures as programs](https://arxiv.org/pdf/2109.08214.pdf) and subsequently applied this concept to broader tasks with large language models ([PaL](https://arxiv.org/pdf/2211.10435.pdf), [CoCoGen](https://arxiv.org/pdf/2210.07128.pdf)).
 To navigate the complexities of tasks and adapt to the constant flux of new knowledge, I created the first-ever [hierarchical procedural knowledge base](https://arxiv.org/pdf/2203.07264.pdf). I designed a retrieval-augmented model ([DocPrompting](https://arxiv.org/pdf/2207.05987.pdf)), capable of learning from the knowledge base and generating new, previously unseen procedures.
 With the belive of "what I don't measure, I can't improve", I created [WebArena](https://webarena.dev), a realistic and reproducible environment for building and evaluating autonomous agents that are guided by high-level natural language commands.
@@ -62,7 +63,7 @@ Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
 
 
-## Publications
+## And More
 **Execution-Based Evaluation for Open-Domain Code Generation** \
 Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
 preprint1 \
