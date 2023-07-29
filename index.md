@@ -8,8 +8,8 @@ Hi, I’m Shuyan, a final-year PhD student of the Language Technologies Institut
 
 My research interests lie in natural language command and control. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
 
-I proposed a intuitive formalism for representing [procedures as programs](https://arxiv.org/pdf/2109.08214.pdf) and subsequently applied this concept to broader tasks with large language models ([PaL](https://arxiv.org/pdf/2211.10435.pdf), [CoCoGen](https://arxiv.org/pdf/2210.07128.pdf)).
-To navigate the complexities of tasks and adapt to the constant flux of new knowledge, I created the first-ever [hierarchical procedural knowledge base](https://arxiv.org/pdf/2203.07264.pdf). I designed a retrieval-augmented model ([DocPrompting](https://arxiv.org/pdf/2207.05987.pdf)), capable of learning from the knowledge base and generating new, previously unseen procedures.
+To achieve this, I proposed an intuitive formalism for representing [procedures as programs](https://arxiv.org/pdf/2109.08214.pdf) and subsequently applied this concept to broader tasks with large language models ([PaL](https://arxiv.org/pdf/2211.10435.pdf), [CoCoGen](https://arxiv.org/pdf/2210.07128.pdf)).
+To navigate the complexities of tasks and adapt to the constant flux of new knowledge, I built the first-ever [hierarchical procedural knowledge base](https://arxiv.org/pdf/2203.07264.pdf). I created a retrieval-augmented model ([DocPrompting](https://arxiv.org/pdf/2207.05987.pdf)), capable of learning from the knowledge base and generating new, previously unseen procedures.
 With the belive of "what I don't measure, I can't improve", I created [WebArena](https://webarena.dev), a realistic and reproducible environment for building and evaluating autonomous agents that are guided by high-level natural language commands.
 
 I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu). 
@@ -26,7 +26,7 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 *\* indicates equal contribution*, *^ indicates mentorship*
 
 **WebArena: A Realistic Web Environment for Building Autonomous Agents** \
-Shuyan Zhou \*, Frank F. Xu\*, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig \
+**Shuyan Zhou**\*, Frank F. Xu\*, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig \
 preprint \
 [[Paper](https://arxiv.org/pdf/2307.13854.pdf)][[Project Site](https://webarena.dev)][[Twitter](https://twitter.com/shuyanzhxyc/status/1683917253597855744?s=20)]
 
