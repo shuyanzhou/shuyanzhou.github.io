@@ -6,7 +6,7 @@ layout: default
 <a id="about-me"></a>
 Hi, I’m Shuyan, a final-year PhD student of the Language Technologies Institute at [Carnegie Mellon University](https://www.cmu.edu). I am fortunately advised by Professor [Graham Neubig](http://phontron.com). Before that, I received my bachelor degree in Computer Science and Technology from Harbin Institute of Technology.
 
-My research interests lie in natural language command and control. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
+I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
 
 We proposed an intuitive formalism for representing [procedures as programs](https://arxiv.org/pdf/2109.08214.pdf) and subsequently applied this concept to broader tasks with large language models ([PaL](https://arxiv.org/pdf/2211.10435.pdf), [CoCoGen](https://arxiv.org/pdf/2210.07128.pdf)).
 We built the first-ever [hierarchical procedural knowledge base](https://arxiv.org/pdf/2203.07264.pdf). To learn from the knowledge base and generate new and previously unseen procedures, we designed [DocPrompting](https://arxiv.org/pdf/2207.05987.pdf) that reads the relevant documentation before taking actions.
