@@ -22,7 +22,7 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
 ------------
 
-## Select Publications
+## Publications
 *\* indicates equal contribution*, *^ indicates mentorship*
 
 **WebArena: A Realistic Web Environment for Building Autonomous Agents** \
@@ -43,8 +43,29 @@ ICML, 2023 \
 
 **Hierarchical Prompting Assists Large Language Model on Web Navigation** \
 Abishek Sridhar\*, Robert Lo\*, Frank F. Xu, Hao Zhu, **Shuyan Zhou^** \
-preprint \
+Findings of EMNLP, 2023 \
 [[Paper](https://arxiv.org/pdf/2305.14257.pdf)][[Code](https://github.com/robert1003/ash-prompting)]
+
+**CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code** \
+**Shuyan Zhou**\*, Uri Alon\*, Sumit Agarwal, Graham Neubig \
+EMNLP 2023 \
+Deep Learning for Code Workshop at ICLR, 2023 (<span style="color:red">spotlight</span>) \
+[[Paper](https://arxiv.org/pdf/2302.05527.pdf)][[Code](https://github.com/neulab/code-bert-score)]
+
+**Execution-Based Evaluation for Open-Domain Code Generation** \
+Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
+Findings of EMNLP, 2023 \
+[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
+
+**Causal Reasoning of Entities and Events in Procedural Texts** \
+Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
+Findings of EACL, 2023 \
+[[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
+
+**MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages**\
+Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou^**, Frank F. Xu, Graham Neubig \
+Findings of EACL, 2023 \
+[[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
 **Language Models of Code are Few-Shot Commonsense Learners** \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
@@ -61,28 +82,6 @@ ACL, 2022 \
 **Shuyan Zhou**, Pengcheng Yin, Graham Neubig \
 Structured and Unstructured Knowledge Integration Workshop at NAACL, 2022\
 [[Paper](https://arxiv.org/pdf/2109.08214.pdf)]
-
-
-## And More
-**Execution-Based Evaluation for Open-Domain Code Generation** \
-Zhiruo Wang, **Shuyan Zhou**, Daniel Fried, Graham Neubig \
-preprint1 \
-[[Paper](https://arxiv.org/pdf/2212.10481.pdf)][[Project Site](https://code-eval.github.io)]
-
-**CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code** \
-**Shuyan Zhou**\*, Uri Alon\*, Sumit Agarwal, Graham Neubig \
-Deep Learning for Code Workshop at ICLR, 2023 (<span style="color:red">spotlight</span>) \
-[[Paper](https://arxiv.org/pdf/2302.05527.pdf)][[Code](https://github.com/neulab/code-bert-score)]
-
-**Causal Reasoning of Entities and Events in Procedural Texts** \
-Li Zhang\*, Hainiu Xu\*, Yue Yang, **Shuyan Zhou**, Weiqiu You, Manni Arora, Chris Callison-Burch \
-Findings of EACL, 2023 \
-[[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
-
-**MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages**\
-Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou^**, Frank F. Xu, Graham Neubig \
-Findings of EACL, 2023 \
-[[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
 **Soft Gazetteers for Low-Resource Named Entity Recognition** \
 Shruti Rijhwani, **Shuyan Zhou**, Graham Neubig, Jaime Carbonell \
