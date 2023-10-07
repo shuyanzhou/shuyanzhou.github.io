@@ -67,6 +67,12 @@ Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou^**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
+**Bridging the gap: A Survey on Integrating (Human) Feedback for Natural Language Generation** \
+Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José GC de Souza, **Shuyan Zhou**, Tongshuang Wu, Graham Neubig, André FT Martins \
+TACL, 2023 \
+[[Paper](https://browse.arxiv.org/pdf/2305.00955.pdf)]
+
+
 **Language Models of Code are Few-Shot Commonsense Learners** \
 Aman Madaan, **Shuyan Zhou**, Uri Alon, Yiming Yang, Graham Neubig \
 EMNLP, 2022 \
