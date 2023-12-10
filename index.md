@@ -12,9 +12,9 @@ We proposed an intuitive formalism for representing [procedures as programs](htt
 We built the first large-scale [hierarchical procedural knowledge base](https://arxiv.org/pdf/2203.07264.pdf). To learn from the knowledge base and generate new and previously unseen procedures, we designed [DocPrompting](https://arxiv.org/pdf/2207.05987.pdf) that reads the relevant documentation before taking actions.
 With the belief of "what I don't measure, I can't improve", we built [WebArena](https://webarena.dev), a realistic and reproducible environment for building and evaluating autonomous agents that are guided by high-level natural language commands.
 
-I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu). 
+I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
-<!-- <span style="color:red">I'm on the job market for academia and industry jobs!</span> -->
+<span style="color:red">I'm on the faculty job market!</span>
 <!-- Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+. -->
 
 <!-- Outside research, I enjoy bouldering (20% of my self-defined progress bar), playing tennis (30%), snowboarding (10%), rap (1%) and stand-up comedy (1%). I also play pingpong (80%) and basketball (70%).  -->
