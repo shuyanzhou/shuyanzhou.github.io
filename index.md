@@ -27,7 +27,7 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
 **WebArena: A Realistic Web Environment for Building Autonomous Agents** \
 **Shuyan Zhou**\*, Frank F. Xu\*, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig \
-preprint \
+ICLR, 2024 \
 [[Paper](https://arxiv.org/pdf/2307.13854.pdf)][[Project Site](https://webarena.dev)][[Twitter](https://twitter.com/shuyanzhxyc/status/1683917253597855744?s=20)]
 
 
