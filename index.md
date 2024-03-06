@@ -4,7 +4,7 @@ layout: default
 
 <!-- ## About Me -->
 <a id="about-me"></a>
-Hi, I’m Shuyan, a final-year PhD student of the Language Technologies Institute at [Carnegie Mellon University](https://www.cmu.edu). I am fortunately advised by Professor [Graham Neubig](http://phontron.com). Before that, I received my bachelor degree in Computer Science and Technology from Harbin Institute of Technology.
+Hi, I’m Shuyan, a final-year PhD student of the Language Technologies Institute at [Carnegie Mellon University](https://www.cmu.edu). I am fortunately advised by [Graham Neubig](http://phontron.com). 
 
 I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
 
@@ -24,6 +24,12 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
 ## Publications
 *\* indicates equal contribution*, *^ indicates mentorship*
+
+**VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks** \
+Jing Yu Koh,  Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, **Shuyan Zhou**, Ruslan Salakhutdinov,  Daniel Fried \
+Preprint, 2024 \
+[[Paper](https://arxiv.org/pdf/2401.13649.pdf)] [[Project Site](https://jykoh.com/vwa)] [[Twitter](https://x.com/kohjingyu/status/1750540178488266902?s=20)] [[WIRED Article](https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/)]
+
 
 **WebArena: A Realistic Web Environment for Building Autonomous Agents** \
 **Shuyan Zhou**\*, Frank F. Xu\*, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig \
@@ -149,8 +155,6 @@ Research Intern, Microsoft \
 2020.05 - 2020.08 \
 Host: [Kaushik Chakrabarti](https://www.microsoft.com/en-us/research/people/kaushik/) 
 
-B.Eng of Computer Science and Technology, Harbin Institute of Technology \
-2014.09 - 2018.06 
 
 Research Intern, Microsoft Research Asia \
 2017.07 - 2018.06 \
