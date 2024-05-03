@@ -14,7 +14,6 @@ With the belief of "what I don't measure, I can't improve", we built [WebArena](
 
 I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
-<span style="color:red">I'm on the faculty job market!</span>
 <!-- Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+. -->
 
 <!-- Outside research, I enjoy bouldering (20% of my self-defined progress bar), playing tennis (30%), snowboarding (10%), rap (1%) and stand-up comedy (1%). I also play pingpong (80%) and basketball (70%).  -->
@@ -24,6 +23,12 @@ I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
 
 ## Publications
 *\* indicates equal contribution*, *^ indicates mentorship*
+
+**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** \
+Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, **Shuyan Zhou**, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu \
+Preprint, 2024 \
+[[Paper](https://arxiv.org/pdf/2404.07972.pdf)] [[Project Site](https://os-world.github.io/)] [[Twitter](https://twitter.com/TianbaoX/status/1778781521253667267)]
+
 
 **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks** \
 Jing Yu Koh,  Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, **Shuyan Zhou**, Ruslan Salakhutdinov,  Daniel Fried \
