@@ -32,7 +32,7 @@ Preprint, 2024 \
 
 **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks** \
 Jing Yu Koh,  Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, **Shuyan Zhou**, Ruslan Salakhutdinov,  Daniel Fried \
-Preprint, 2024 \
+ACL, 2024 \
 [[Paper](https://arxiv.org/pdf/2401.13649.pdf)] [[Project Site](https://jykoh.com/vwa)] [[Twitter](https://x.com/kohjingyu/status/1750540178488266902?s=20)] [[WIRED Article](https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/)]
 
 
