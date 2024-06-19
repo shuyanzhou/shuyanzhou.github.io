@@ -32,7 +32,7 @@ Preprint, 2024 \
 **WebCanvas: Benchmarking Web Agents in Online Environments** \
 Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, **Shuyan Zhou^**, Tongshuang Wu, Zhengyang Wu \
 Preprint, 2024 \
-[[Paper](https://arxiv.org/abs/2406.12373)] [[Platform](https://www.imean.ai/web-canvas)
+[[Paper](https://arxiv.org/abs/2406.12373)] [[Platform](https://www.imean.ai/web-canvas)]
 
 **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks** \
 Jing Yu Koh,  Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, **Shuyan Zhou**, Ruslan Salakhutdinov,  Daniel Fried \
