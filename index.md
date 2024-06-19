@@ -4,7 +4,7 @@ layout: default
 
 <!-- ## About Me -->
 <a id="about-me"></a>
-Hi, I’m Shuyan, a final-year PhD student of the Language Technologies Institute at [Carnegie Mellon University](https://www.cmu.edu). I am fortunately advised by [Graham Neubig](http://phontron.com). 
+Hi, I’m Shuyan, a final-year PhD student at CMU LTI. I am fortunately advised by [Graham Neubig](http://phontron.com). In Fall 2025, I will be an Assistant Professor at [Duke Computer Science](https://cs.duke.edu/), and I will be taking students in the coming cycle (deadline 12/14/2024). 
 
 I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
 
@@ -29,6 +29,10 @@ Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao
 Preprint, 2024 \
 [[Paper](https://arxiv.org/pdf/2404.07972.pdf)] [[Project Site](https://os-world.github.io/)] [[Twitter](https://twitter.com/TianbaoX/status/1778781521253667267)]
 
+**WebCanvas: Benchmarking Web Agents in Online Environments** \
+Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, **Shuyan Zhou^**, Tongshuang Wu, Zhengyang Wu \
+Preprint, 2024 \
+[[Paper](https://arxiv.org/abs/2406.12373)] [[Platform](https://www.imean.ai/web-canvas)
 
 **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks** \
 Jing Yu Koh,  Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, **Shuyan Zhou**, Ruslan Salakhutdinov,  Daniel Fried \
