@@ -4,15 +4,16 @@ layout: default
 
 <!-- ## About Me -->
 <a id="about-me"></a>
-Hi, I’m Shuyan, a final-year PhD student at CMU LTI. I am fortunately advised by [Graham Neubig](http://phontron.com). In Fall 2025, I will be an Assistant Professor at [Duke Computer Science](https://cs.duke.edu/), and I will be taking students in the coming cycle (deadline 12/14/2024). 
+I am an incoming Assistant Professor at [Duke CS](https://cs.duke.edu/) starting fall 2025, and I will be recruiting graudate students in upcoming cycle (deadline 12/14/2024). Please apply to Duke CS if you are interested in working with me!
 
-I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings.
+Currently I am a researcher at Meta GenAI. I obtained my PhD from Carnegie Mellon University, advised by [Graham Neubig](http://phontron.com).
+<!-- I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings. -->
 
 <!-- We proposed an intuitive formalism for representing [procedures as programs](https://arxiv.org/pdf/2109.08214.pdf) and subsequently applied this concept to broader tasks with large language models ([PaL](https://arxiv.org/pdf/2211.10435.pdf), [CoCoGen](https://arxiv.org/pdf/2210.07128.pdf)). -->
 <!-- We built the first large-scale [hierarchical procedural knowledge base](https://arxiv.org/pdf/2203.07264.pdf). To learn from the knowledge base and generate new and previously unseen procedures, we designed [DocPrompting](https://arxiv.org/pdf/2207.05987.pdf) that reads the relevant documentation before taking actions. -->
 <!-- With the belief of "what I don't measure, I can't improve", we built [WebArena](https://webarena.dev), a realistic and reproducible environment for building and evaluating autonomous agents that are guided by high-level natural language commands. -->
 
-I am best reached by email at [shuyanzh@cs.cmu.edu](mailto:shuyanzh@cs.cmu.edu).
+I am best reached by email at [shuyanzhxxx@gmail.com](mailto:shuyanzhxxx@gmail.com).
 
 <!-- Feel free to reach out about my research or anything else I might be able to help with. I’m always happy to answer questions about getting started with NLP research and applying to Ph.D. programs, especially for underrepresented groups like women, LGBTQ+. -->
 
