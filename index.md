@@ -4,7 +4,7 @@ layout: default
 
 <!-- ## About Me -->
 <a id="about-me"></a>
-I am an incoming Assistant Professor at [Duke CS](https://cs.duke.edu/) starting fall 2025, and I will be recruiting graudate students in upcoming cycle (deadline 12/14/2024). Please apply to Duke CS if you are interested in working with me!
+Hi! I am an incoming Assistant Professor at [Duke CS](https://cs.duke.edu/) starting fall 2025, and I will be recruiting graudate students in upcoming cycle (deadline 12/14/2024). Please apply to Duke CS if you are interested in working with me!
 
 Currently I am a researcher at Meta GenAI. I obtained my PhD from Carnegie Mellon University, advised by [Graham Neubig](http://phontron.com).
 <!-- I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings. -->
