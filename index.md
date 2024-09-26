@@ -24,6 +24,8 @@ I am best reached by email at [shuyanzhxxx@gmail.com](mailto:shuyanzhxxx@gmail.c
 
 ## Publications
 *\* indicates equal contribution*, *^ indicates mentorship*
+
+
 **Solving Real-World Tasks with AI Agents** \
 Shuyan Zhou \
 PhD Thesis, 2024 \
