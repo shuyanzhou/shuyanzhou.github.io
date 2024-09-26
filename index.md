@@ -24,6 +24,11 @@ I am best reached by email at [shuyanzhxxx@gmail.com](mailto:shuyanzhxxx@gmail.c
 
 ## Publications
 *\* indicates equal contribution*, *^ indicates mentorship*
+**Solving Real-World Tasks with AI Agents** \
+Shuyan Zhou \
+PhD Thesis, 2024 \
+[[Thesis](./assets/papers/shuyanzh_thesis.pdf)]
+
 
 **Synatra: Turning Indirect Knowledge Into Direct Demonstrations For Digital Agents At Scale** \
 Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, **Shuyan Zhou^** \
