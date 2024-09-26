@@ -25,6 +25,12 @@ I am best reached by email at [shuyanzhxxx@gmail.com](mailto:shuyanzhxxx@gmail.c
 ## Publications
 *\* indicates equal contribution*, *^ indicates mentorship*
 
+**Synatra: Turning Indirect Knowledge Into Direct Demonstrations For Digital Agents At Scale** \
+Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, **Shuyan Zhou^** \
+NeurIPS 2024 \
+[[Paper](https://arxiv.org/pdf/2409.15637.pdf)][[Project Site](https://oootttyyy.github.io/synatra/)]
+
+
 **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** \
 Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, **Shuyan Zhou**, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu \
 Preprint, 2024 \
