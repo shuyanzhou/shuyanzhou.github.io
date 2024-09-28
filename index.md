@@ -40,7 +40,7 @@ NeurIPS 2024 \
 
 **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** \
 Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, **Shuyan Zhou**, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu \
-Preprint, 2024 \
+NeurIPS D&B Track, 2024 \
 [[Paper](https://arxiv.org/pdf/2404.07972.pdf)] [[Project Site](https://os-world.github.io/)] [[Twitter](https://twitter.com/TianbaoX/status/1778781521253667267)]
 
 **WebCanvas: Benchmarking Web Agents in Online Environments** \
