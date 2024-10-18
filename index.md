@@ -31,11 +31,16 @@ Shuyan Zhou \
 PhD Thesis, 2024 \
 [[Thesis](./assets/papers/shuyanzh_thesis.pdf)]
 
+**Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents** \
+Priyanshu Kumar, Elaine Lau, Saranya Vijayakumar, Tu Trinh, Scale Red Team, Elaine Chang, Vaughn Robinson, Sean Hendryx, **Shuyan Zhou**, Matt Fredrikson, Summer Yue, Zifan Wang \
+Preprint 2024 \
+[[Paper](https://static.scale.com/uploads/6691558a94899f2f65a87a75/browser_art_draft_preview.pdf)][[Project Site](https://scale.com/research/browser-art)][[Twitter](https://x.com/shuyanzhxyc/status/1845962297933811939)]
+
 
 **Synatra: Turning Indirect Knowledge Into Direct Demonstrations For Digital Agents At Scale** \
 Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, **Shuyan Zhou^** \
 NeurIPS 2024 \
-[[Paper](https://arxiv.org/pdf/2409.15637.pdf)][[Project Site](https://oootttyyy.github.io/synatra/)]
+[[Paper](https://arxiv.org/pdf/2409.15637.pdf)][[Project Site](https://oootttyyy.github.io/synatra/)][[Twitter](https://x.com/shuyanzhxyc/status/1843677986337522076)]
 
 
 **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** \
