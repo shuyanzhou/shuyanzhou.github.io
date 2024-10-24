@@ -157,23 +157,6 @@ CoNLL, 2018\
 
 ------------
 
-## Academic Service
-
-* **Mentoring**
-  * CMU Language Technologies Mentoring Program (for new graduate students; 2021)
-  * CMU Graduate Application Support Organizer & Mentor (2020, 2021)
-  * CMU AI Mentoring Program (for undergraduates from underrepresented groups; 2020, 2021)
-
-* **Reviewing**
-  * ARR 2022, AAAI 2022, ARR 2021, EACL 2021
-
-------------
-
-## Teaching
-* TA of CMU 11711 Advanced NLP, Fall 201
-* TA of CMU 11747 Neural Network for Natural Language Processing, Spring 2021
-
-------------
 
 ## Experience
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
