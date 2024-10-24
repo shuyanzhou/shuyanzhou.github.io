@@ -159,6 +159,9 @@ CoNLL, 2018\
 
 
 ## Experience
+Researcher, Meta GenAI \
+2024.08 - Present 
+
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
 2018.08 - 2024.07 \
 Advisor: [Graham Neubig](http://phontron.com)
