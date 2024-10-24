@@ -23,13 +23,18 @@ I am best reached by email at [shuyanzhxxx@gmail.com](mailto:shuyanzhxxx@gmail.c
 ------------
 
 ## Publications
-*\* indicates equal contribution*, *^ indicates mentorship*
+*\* indicates equal contribution*
 
 
 **Solving Real-World Tasks with AI Agents** \
 Shuyan Zhou \
 PhD Thesis, 2024 \
 [[Thesis](./assets/papers/shuyanzh_thesis.pdf)]
+
+**Beyond Browsing: API-Based Web Agents** \
+Yueqi Song, Frank Xu, **Shuyan Zhou**, Graham Neubig \
+Preprint 2024 \
+[[Paper](https://arxiv.org/abs/2410.16464)][[Project Site](https://yueqis.github.io/API-Based-Agent/)][[Twitter](https://x.com/shuyanzhxyc/status/1849158905127199017)]
 
 **Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents** \
 Priyanshu Kumar, Elaine Lau, Saranya Vijayakumar, Tu Trinh, Scale Red Team, Elaine Chang, Vaughn Robinson, Sean Hendryx, **Shuyan Zhou**, Matt Fredrikson, Summer Yue, Zifan Wang \
@@ -38,7 +43,7 @@ Preprint 2024 \
 
 
 **Synatra: Turning Indirect Knowledge Into Direct Demonstrations For Digital Agents At Scale** \
-Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, **Shuyan Zhou^** \
+Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, **Shuyan Zhou** \
 NeurIPS 2024 \
 [[Paper](https://arxiv.org/pdf/2409.15637.pdf)][[Project Site](https://oootttyyy.github.io/synatra/)][[Twitter](https://x.com/shuyanzhxyc/status/1843677986337522076)]
 
@@ -49,7 +54,7 @@ NeurIPS D&B Track, 2024 \
 [[Paper](https://arxiv.org/pdf/2404.07972.pdf)] [[Project Site](https://os-world.github.io/)] [[Twitter](https://twitter.com/TianbaoX/status/1778781521253667267)]
 
 **WebCanvas: Benchmarking Web Agents in Online Environments** \
-Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, **Shuyan Zhou^**, Tongshuang Wu, Zhengyang Wu \
+Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, **Shuyan Zhou**, Tongshuang Wu, Zhengyang Wu \
 Preprint, 2024 \
 [[Paper](https://arxiv.org/abs/2406.12373)] [[Platform](https://www.imean.ai/web-canvas)]
 
@@ -76,7 +81,7 @@ ICML, 2023 \
 [[Paper](https://arxiv.org/pdf/2211.10435.pdf)][[Project Site](https://reasonwithpal.com)][[Twitter](https://twitter.com/shuyanzhxyc/status/1595140404545933313?s=20&t=a8GaJT23kFEPLKujdQO2IQ)][[Demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques)]
 
 **Hierarchical Prompting Assists Large Language Model on Web Navigation** \
-Abishek Sridhar\*, Robert Lo\*, Frank F. Xu, Hao Zhu, **Shuyan Zhou^** \
+Abishek Sridhar\*, Robert Lo\*, Frank F. Xu, Hao Zhu, **Shuyan Zhou** \
 Findings of EMNLP, 2023 \
 [[Paper](https://arxiv.org/pdf/2305.14257.pdf)][[Code](https://github.com/robert1003/ash-prompting)]
 
@@ -97,7 +102,7 @@ Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2301.10896.pdf)][[Code+Data](https://github.com/zharry29/causal_reasoning_of_entities_and_events)]
 
 **MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages**\
-Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou^**, Frank F. Xu, Graham Neubig \
+Zhiruo Wang\* , Grace Cuenca\*, **Shuyan Zhou**, Frank F. Xu, Graham Neubig \
 Findings of EACL, 2023 \
 [[Paper](https://arxiv.org/pdf/2203.08388.pdf)] [[Code+Data](https://github.com/zorazrw/multilingual-conala)]
 
