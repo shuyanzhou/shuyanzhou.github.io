@@ -177,7 +177,7 @@ CoNLL, 2018\
 
 ## Experience
 Master → Ph.D. of Language Technologies, Carnegie Mellon University \
-2018.08 - Present \
+2018.08 - 2024.07 \
 Advisor: [Graham Neubig](http://phontron.com)
 
 Ph.D. Resident, X, the moonshot factory \
