@@ -33,6 +33,19 @@ Shuyan Zhou \
 PhD Thesis, 2024 \
 [[Thesis](./assets/papers/shuyanzh_thesis.pdf)]
 
+**CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation** \
+Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, **Shuyan Zhou**, Jeffrey P. Bigham, Graham Neubig \
+Preprint 2025 \
+[[Paper](https://arxiv.org/pdf/2501.16609)][[Project Site](https://oaishi.github.io/cowpilot.html)][[Twitter](https://x.com/FariaHuqOaishi/status/1884749299277345269)]
+
+
+**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks** \
+Frank F. Xu, Yufan Song, Boxuan Li, Yuxuan Tang, Kritanjali Jain, Mengxue Bao, Zora Z. Wang, Xuhui Zhou, Zhitong Guo, Murong Cao, Mingyang Yang, Hao Yang Lu, Amaad Martin, Zhe Su, Leander Maben, Raj Mehta, Wayne Chi, Lawrence Jang, Yiqing Xie, **Shuyan Zhou**, Graham Neubig \
+Preprint 2025 \
+[[Paper](https://arxiv.org/pdf/2412.14161)][[Project Site](https://the-agent-company.com/)][[Twitter](https://x.com/gneubig/status/1869735196700062089)] 
+
+
+
 **Beyond Browsing: API-Based Web Agents** \
 Yueqi Song, Frank Xu, **Shuyan Zhou**, Graham Neubig \
 Preprint 2024 \
@@ -40,7 +53,7 @@ Preprint 2024 \
 
 **Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents** \
 Priyanshu Kumar, Elaine Lau, Saranya Vijayakumar, Tu Trinh, Scale Red Team, Elaine Chang, Vaughn Robinson, Sean Hendryx, **Shuyan Zhou**, Matt Fredrikson, Summer Yue, Zifan Wang \
-Preprint 2024 \
+ICLR 2025 \
 [[Paper](https://static.scale.com/uploads/6691558a94899f2f65a87a75/browser_art_draft_preview.pdf)][[Project Site](https://scale.com/research/browser-art)][[Twitter](https://x.com/shuyanzhxyc/status/1845962297933811939)]
 
 
