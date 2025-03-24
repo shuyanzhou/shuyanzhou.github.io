@@ -6,7 +6,7 @@ layout: default
 <a id="about-me"></a>
 Hi! I am an incoming Assistant Professor at [Duke CS](https://cs.duke.edu/) starting fall 2025. The mission of my lab is to augment human decision-making by advancing the reasoning, comprehension, and autonomy of modern AI systems. 
 
-I am actively recruiting graudate students in this cycle. Please apply to Duke CS and mention my name in your statement of purpose if you are interested in working with me and collaborating with our amazing [AI faculty](https://cs.duke.edu/research/artificial-intelligence)!
+<!-- I am actively recruiting graudate students in this cycle. Please apply to Duke CS and mention my name in your statement of purpose if you are interested in working with me and collaborating with our amazing [AI faculty](https://cs.duke.edu/research/artificial-intelligence)! -->
 
 Currently I am a researcher at Meta GenAI. I obtained my PhD from Carnegie Mellon University, advised by [Graham Neubig](http://phontron.com).
 <!-- I work on building autonomous agents that could understand high-level language commands. My goal is to create AI agents that would free human beings from tedious tasks and aid them in better decision makings. -->
@@ -35,7 +35,7 @@ PhD Thesis, 2024 \
 
 **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation** \
 Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, **Shuyan Zhou**, Jeffrey P. Bigham, Graham Neubig \
-Preprint 2025 \
+NAACL 2025 (Demo track) \
 [[Paper](https://arxiv.org/pdf/2501.16609)][[Project Site](https://oaishi.github.io/cowpilot.html)][[Twitter](https://x.com/FariaHuqOaishi/status/1884749299277345269)]
 
 
