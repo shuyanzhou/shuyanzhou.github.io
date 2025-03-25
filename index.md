@@ -4,7 +4,7 @@ layout: default
 
 <!-- ## About Me -->
 <a id="about-me"></a>
-Hi! I am an incoming Assistant Professor at [Duke CS](https://cs.duke.edu/) starting fall 2025. The mission of my lab is to augment human decision-making by advancing the reasoning, comprehension, and autonomy of modern AI systems. 
+Hi! I am an incoming Assistant Professor at [Duke CS](https://cs.duke.edu/) starting fall 2025. The mission of my lab is to augment human decision-making by advancing the reasoning and autonomy of modern AI systems. 
 
 <!-- I am actively recruiting graudate students in this cycle. Please apply to Duke CS and mention my name in your statement of purpose if you are interested in working with me and collaborating with our amazing [AI faculty](https://cs.duke.edu/research/artificial-intelligence)! -->
 
