@@ -176,7 +176,7 @@ CoNLL, 2018\
 
 ## Experience
 Assitant Professor, Duke CS \
-2025.08 - Present \
+2025.08 - Present 
 
 Researcher, Meta GenAI \
 2024.08 - 2025.08 
